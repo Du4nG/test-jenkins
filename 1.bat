@@ -1,1 +1,1 @@
-echo test secret
+echo test secret add '/'
